@@ -1,8 +1,10 @@
 @import 'reset';
+@import 'variaveis-e-mixins';
 @import 'grid';
+@import 'geral';
 
-div {
-    font-family: 'Aref Ruqaa', serif;
-font-family: 'PT Mono', monospace;
-}
+//partes
+@import 'intro';
+
+
 
